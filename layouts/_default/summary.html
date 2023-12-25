@@ -1,0 +1,10 @@
+<a class="box summary-box" href="{{ .Permalink }}">
+  <h4>{{ .Title }}</h4>
+  <h6 id="post-summary" class="subtitle">{{ .Summary }}</h6>
+  <div id="post-info">
+    <!-- <span class="tag is-link">{{ .ReadingTime }} Minutes</span> -->
+    <span class="tag is-info">{{ .Date.Format "Jan 2, 2006" }}</span>
+    <span>\\</span>
+    <span class="tag is-primary">{{ .WordCount }} Words</span>
+  </div>
+</a>

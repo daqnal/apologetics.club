@@ -1,0 +1,239 @@
+:root {
+  --font-family: 'Rubik', sans-serif;
+  --border-radius: 0.5rem;
+  --spacing: 0.5rem;
+
+  /* colors ye */
+  --blue: rgba(16, 149, 193, 1);
+  --blue-half: rgba(16, 149, 193, 0.5);
+  --blue-faded: rgba(16, 149, 193, 0.2);
+  --pink-faded: rgba(245, 40, 145, 0.2);
+  --white-half: rgba(255, 255, 255, 0.5);
+
+  --primary-hover: var(--blue);
+}
+
+@font-face {
+  font-family: 'Rubik';
+  src: url(/fonts/rubik400.woff2);
+}
+
+@font-face {
+  font-family: 'Ben Zion';
+  src: url(/fonts/benzionl.woff2);
+}
+
+/* fix to make the footer stick to the bottom */
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+footer {
+  /* fix to make it stick at the bottom */
+  margin-top: auto;
+
+  opacity: 50%;
+  text-align: center;
+}
+
+p {
+  /* remove extraneous spacing in footer area and in boxes*/
+  margin-bottom: 0;
+}
+
+/* Add a padding around so content isn't at edge */
+/* main {
+  padding: 2.5rem;
+} */
+
+nav {
+
+  margin-left: 10px;
+  margin-right: 10px;
+
+  border-bottom: var(--blue) 2px solid;
+}
+
+
+svg {
+  color: var(--blue);
+
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+h4 {
+  margin-bottom: 0;
+}
+
+h6 {
+  margin: 0 0;
+}
+
+/* Main page title text */
+header>h1 {
+  position: absolute;
+  left: 0;
+  right: 0;
+
+  font-family: 'Ben Zion';
+  letter-spacing: 4px;
+  font-size: 10vw;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+#title-break {
+  display: block;
+  height: 12vw;
+}
+
+header>h1:hover {
+  -webkit-animation: glow 5s ease-in-out infinite alternate;
+  -moz-animation: glow 5s ease-in-out infinite alternate;
+  animation: glow 5s ease-in-out infinite alternate;
+}
+
+/* Description text underneath title */
+header>h4 {
+  margin-bottom: 0;
+  text-align: center;
+}
+
+/* spacing between title & desc and rest of page */
+header {
+  margin-bottom: 3vw;
+}
+
+
+@keyframes glow {
+  0% {
+    text-shadow: none;
+  }
+  50% {
+    text-shadow: 0 0 10px var(--white-half), 0 0 20px var(--white-half), 0 0 30px var(--pink-faded), 0 0 40px var(--pink-faded), 0 0 50px var(--pink-faded), 0 0 60px var(--pink-faded), 0 0 70px var(--pink-faded);
+  }
+  100% {
+    text-shadow: 0 0 20px var(--white-half), 0 0 30px var(--blue-faded), 0 0 40px var(--blue-faded), 0 0 50px var(--blue-faded), 0 0 60px var(--blue-faded), 0 0 70px var(--blue-faded), 0 0 80px var(--blue-faded);
+  }
+}
+
+/* style the "apologetics.club" in the header*/
+#nav-title {
+  /* border styling */
+  position: absolute;
+  border: 2px var(--blue) solid;
+  border-radius: 25px;
+  padding: 0 7.5px;
+}
+
+.pagination-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+/* styling the post boxes */
+a.box {
+
+  margin: 0.5rem;
+  padding: 0.75rem;
+
+  border-radius: 25px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: var(--h4-color);
+
+}
+
+a.box:hover {
+  animation-name: fade;
+  animation-duration: 1s;
+  animation-timing-function: ease-in-out;
+  animation-fill-mode: forwards;
+}
+
+.summary-box {
+  display: block;
+}
+
+/* Trying to get links to also fade on */
+/* [role=link] {
+  animation-name: fade;
+  animation-duration: 1s;
+  animation-timing-function: ease-in-out;
+  animation-fill-mode: forwards;
+} */
+
+@keyframes fade {
+  from {border-color: var(--h4-color);}
+  to {border-color: var(--blue);}
+}
+
+h1.title {
+  margin: 2rem 0 0 0;
+}
+
+.mini-box {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.mini-boxes-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.box-icon {
+  width: 7vw;
+  height: 7vw;
+  align-self: center;
+}
+
+.box-text {
+  text-align: center;
+}
+
+#recent-posts-text {
+  text-align: center;
+}
+
+button {
+  margin: 0.5rem;
+  padding: 0.75rem;
+
+  background-color: rgba(0, 0, 0, 0);
+
+  border-radius: 25px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: var(--h4-color);
+}
+
+.special-page-container {
+  margin-top: 3rem;
+}
+
+.pagefind-ui__search-clear {
+  display: none;
+}
+
+.pagefind-ui__drawer {
+  padding: 2rem;
+}
+
+.pagefind-ui__message {
+  margin-bottom: 1rem;
+}
+
+mark {
+  background-color: var(--blue);
+}

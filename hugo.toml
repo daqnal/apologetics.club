@@ -1,0 +1,5 @@
+baseURL = 'https://apologetics.club/'
+languageCode = 'en-us'
+title = 'Apologetics Club'
+ignoreFiles = ['/.sass-cache']
+enableRobotsTXT = true
