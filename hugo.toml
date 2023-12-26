@@ -3,3 +3,9 @@ languageCode = 'en-us'
 title = 'Apologetics Club'
 ignoreFiles = ['/.sass-cache']
 enableRobotsTXT = true
+enableEmoji = true
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            hardWraps = true

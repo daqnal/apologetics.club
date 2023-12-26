@@ -218,6 +218,10 @@ button {
   border-color: var(--h4-color);
 }
 
+
+
+/* style search page */
+
 .special-page-container {
   margin-top: 3rem;
 }
@@ -236,4 +240,41 @@ button {
 
 mark {
   background-color: var(--blue);
+}
+
+
+
+/* the markdown area */
+
+article {
+  padding: 2rem;
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+
+
+h2 {
+  --typography-spacing-vertical: 1rem;
+}
+
+::marker {
+  font-weight: bold;
+}
+
+ul li::marker {
+  color: var(--blue-half);
+  content: "⦿ ";
+}
+
+ol, ul {
+  list-style-position: inside;
+}
+
+blockquote ol {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+p img {
+  margin: var(--typography-spacing-vertical) 0;
 }
