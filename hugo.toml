@@ -4,6 +4,7 @@ title = 'Apologetics Club'
 ignoreFiles = ['/.sass-cache']
 enableRobotsTXT = true
 enableEmoji = true
+summaryLength = 20
 
 [markup]
     [markup.goldmark]

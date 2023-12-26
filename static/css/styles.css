@@ -39,16 +39,6 @@ footer {
   text-align: center;
 }
 
-p {
-  /* remove extraneous spacing in footer area and in boxes*/
-  margin-bottom: 0;
-}
-
-/* Add a padding around so content isn't at edge */
-/* main {
-  padding: 2.5rem;
-} */
-
 nav {
 
   margin-left: 10px;
@@ -253,7 +243,7 @@ article {
 }
 
 
-h2 {
+article h1, h2, h3, h4, h5, h6 {
   --typography-spacing-vertical: 1rem;
 }
 
@@ -277,4 +267,8 @@ blockquote ol {
 
 p img {
   margin: var(--typography-spacing-vertical) 0;
+}
+
+article p {
+  margin-bottom: 1rem;
 }

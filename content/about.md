@@ -2,9 +2,7 @@
 title: "About"
 Description: "Site background information"
 layout: "about"
+draft: true
 
 ---
 
-# About
-
-## i put the new forgis on the jeep
