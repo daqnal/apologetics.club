@@ -91,6 +91,7 @@ header>h1:hover {
 header>h4 {
   margin-bottom: 0;
   text-align: center;
+  font-size: 2.5vw;
 }
 
 /* spacing between title & desc and rest of page */
@@ -190,6 +191,7 @@ h1.title {
 
 .box-text {
   text-align: center;
+  margin: 0.5vw;
 }
 
 #recent-posts-text {
@@ -271,4 +273,9 @@ p img {
 
 article p {
   margin-bottom: 1rem;
+}
+
+hr {
+  margin-block-start: 2em;
+  margin-block-end: 2em;
 }
