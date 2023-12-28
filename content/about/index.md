@@ -8,11 +8,13 @@ draft: false
 
 # About
 
-Apologetics.club is an independently-ish maintained, not-for-profit site dedicated to providing simple but effective arguments against non-Christian claims. The ultimate goal is that more Christians are equipped to open up the minds of unbelievers to Christ through logic and reasoning.
+Apologetics.club is an independently maintained, not-for-profit site dedicated to providing simple but effective arguments against non-Christian claims. The ultimate goal is that more Christians are equipped to open up the minds of unbelievers to Christ through logic and reasoning.
 
 ## Technical details
 
 Apologetics.club was made with the [Hugo framework](https://gohugo.io), which makes creating content and seemingly dynamic elements (word counters, post dates, generative indexes, etc...) a piece of cake. 
+
+The design philosophy is functional minimalism. I used [PicoCSS](https://picocss.com) as a lgithweight CSS library to quickly make my pages look nice, though I heavily customized the presets. Pico mainly covers boilerplate styling for the site.
 
 Search is handled by [Pagefind](https://pagefind.app), a static, lightweight search library, because the Lord knows I cannot pretend that I know how to create my own site search feature.
 
