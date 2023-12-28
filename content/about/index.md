@@ -27,7 +27,7 @@ All of the content and code behind apologetics.club is publically available [her
 ### Credits
 
 Icons: [Feather Icons](https://feathericons.com)
-Fonts: [put fonts here pls!!!!]
+Fonts: [put fonts here!!!!]
 
 ## Why the name?
 
@@ -35,7 +35,7 @@ Not too deep of a reason behind this one. `apologetics.club` wasn't taken, and i
 
 ## Personal details
 
-The inspiration for making this site came from my high school apologetics teacher. Ante apologetics class, I had little passionate interest in the Bible; you could've called me a child in the faith. However, I knew that I wanted to love doing something with God's word and that I had skills to do something useful. God's answer to my prayers was that class. My interest grew and grew, and soon enough I decided to begin work on an apologetics-related project around October 2023 during my senior year of high school. Computer science has long been my passion, and combined with my newfound love for apologetics, this site was born. My hope is that this site helps Christians in conversation and debates and someone, even if it is just one person, opens their minds to the faith.
+The inspiration for making this site came from my high school apologetics teacher. Ante apologetics class, I had little passionate interest in the Bible; you could've called me a child in the faith. However, I knew that I wanted to love doing something with God's word and that I had skills to do something useful. God's answer to my prayers was that class. My interest grew and grew, and soon enough I decided to begin work on an apologetics-related project around October 2023 during my senior year of high school. Computer science has long been my passion, and combined with my newfound love for apologetics, this site was born. My hope is that this site helps Christians in conversation and debates and that someone, even if it is just one person, opens his or her mind to the faith.
 
 ***
 
