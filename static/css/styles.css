@@ -1,5 +1,5 @@
 :root {
-  --font-family: 'Rubik', sans-serif;
+  --font-family: 'Kanit', sans-serif;
   --border-radius: 0.5rem;
   --spacing: 0.5rem;
 
@@ -11,11 +11,6 @@
   --white-half: rgba(255, 255, 255, 0.5);
 
   --primary-hover: var(--blue);
-}
-
-@font-face {
-  font-family: 'Rubik';
-  src: url(/fonts/rubik400.woff2);
 }
 
 @font-face {
@@ -37,6 +32,11 @@ footer {
 
   opacity: 50%;
   text-align: center;
+}
+
+footer p {
+  /* footer text should be smaller */
+  font-size: 0.75rem;
 }
 
 nav {
@@ -159,10 +159,10 @@ a.box:hover {
   animation-fill-mode: forwards;
 } */
 
-@keyframes fade {
+/* @keyframes fade {
   from {border-color: var(--h4-color);}
   to {border-color: var(--blue);}
-}
+} */
 
 h1.title {
   margin: 2rem 0 0 0;
@@ -255,11 +255,17 @@ article h1, h2, h3, h4, h5, h6 {
 
 ul li::marker {
   color: var(--blue-half);
-  content: "⦿ ";
+  content: "● ";
 }
 
-ol, ul {
+
+ol, ul li {
   list-style-position: inside;
+}
+
+ul li ul li::marker {
+  color: var(--blue-half);
+  content: "○ ";
 }
 
 blockquote ol {

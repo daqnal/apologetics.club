@@ -10,6 +10,10 @@ draft: false
 
 Apologetics.club is an independently maintained, not-for-profit site dedicated to providing simple but effective arguments against non-Christian claims. The ultimate goal is that more Christians are equipped to open up the minds of unbelievers to Christ through logic and reasoning.
 
+### Contact
+
+If you have any suggestions, corrections, or anything else, you can contact me at [**dan@apologetics.club**](mailto:dan@apologetics.club)
+
 ## Technical details
 
 Apologetics.club was made with the [Hugo framework](https://gohugo.io), which makes creating content and seemingly dynamic elements (word counters, post dates, generative indexes, etc...) a piece of cake. 
@@ -27,7 +31,8 @@ All of the content and code behind apologetics.club is publically available [her
 ### Credits
 
 Icons: [Feather Icons](https://feathericons.com)
-Fonts: [put fonts here!!!!]
+Title font: [Ben Zion](https://www.dafont.com/ben-zion.font) by [Iconian Fonts](https://www.iconian.com/)
+Sans-serif font: [Kanit](https://fonts.google.com/specimen/Kanit) by Cadson Demak
 
 ## Why the name?
 
