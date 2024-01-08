@@ -30,9 +30,9 @@ Keep the fruit of the spirit in your heart when you talk with non-Christians, es
 
 ### 2. Humans will never **prove** or **disprove** Chrsitianity
 
-*There will always be enough light for those who want to see, but there will always be enough darkness for those who want to live in darkness.*
+*There will always be enough light for those who want to see, but there will always be enough darkness for those who want to hide.*
 \- Brandon McGuire, [*Daily Dose of Wisdom*](https://youtube.com/channel/UC0A9YrHgD5hZ2JXQrxRPHsw)
 
-Don't misunderstand this principle. Logic does not go against God; in fact, to Christians, logic is proof of God. The truth is that people see abstract concepts like logic, good, beauty, et cetera differently based on environmental biases and personal beliefs. Basically, even if you win an argument and dismantle the atheist's worldview, they may still disagree with your points and refuse to see the light. Likewise, no matter what *proof* an atheist puts forward that God does not exit, Christians will disagree with a definition or point and proceed to dismiss the argument.
+Don't misunderstand this principle. Logic does not go against God; in fact, to Christians, logic is proof of God. The truth is that people see abstract concepts like logic, good, beauty, et cetera differently based on environmental biases and personal beliefs.
 
-The point of apologetics is not to prove the existence of what is by essence supernatural (God), it is to show that God is not incompatible with reality, with science. From a non-religious perspective, we must show that God is *possible*, maybe even *likely*. Use this content to show that to the world. Only God can truly change the heart; our job is to open the world's minds to him.
+The point of apologetics is not to *prove* the existence of what is by essence supernatural (God), it is to show that God is not incompatible with reality, with science. From a non-religious perspective, we must show that God is *possible*, maybe even *likely*. From an Islamic, Judaic, or Hindu perspective, we must show that the evidence points toward the triune God of the Christians, not their god. Use this content to show that to the world. Only God can truly change the heart; our job is to open the world's minds to him.

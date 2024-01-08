@@ -18,7 +18,7 @@ If you have any suggestions, corrections, or anything else, you can contact me a
 
 Apologetics.club was made with the [Hugo framework](https://gohugo.io), which makes creating content and seemingly dynamic elements (word counters, post dates, generative indexes, etc...) a piece of cake. 
 
-The design philosophy is functional minimalism. I used [PicoCSS](https://picocss.com) as a lgithweight CSS library to quickly make my pages look nice, though I heavily customized the presets. Pico mainly covers boilerplate styling for the site.
+The design philosophy is functional minimalism, meaning no clutter, just enough for a smooth reading experience. I use [PicoCSS](https://picocss.com) as a lightweight CSS library to quickly make my pages look nice, though I heavily customize the presets. Pico mainly covers boilerplate styling for the site.
 
 Search is handled by [Pagefind](https://pagefind.app), a static, lightweight search library, because the Lord knows I cannot pretend that I know how to create my own site search feature.
 

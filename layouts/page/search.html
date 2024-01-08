@@ -13,7 +13,8 @@
         new PagefindUI({ 
             element: "#search", 
             pageSize: 5,
-            resetStyles: false
+            resetStyles: false,
+            autofocus: true
         });
     });
     window.addEventListener('keydown', (event) => {
@@ -22,5 +23,6 @@
             document.querySelector('div#search input').focus();
         }
     });
+    document.getElementById("search").placeholder = "hi";
 </script>
 {{ end }}
