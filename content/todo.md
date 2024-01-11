@@ -22,12 +22,14 @@ Listed here are the ideas of pages/content to come in the future. If you would l
 - The Man on the Island
 - Infinite punishment for finite sins
 - Sins committed by Christians
+- The Bible contradicts science
+- ID is pseudoscience
 
 
 ## Attacks
 - Ontological argument
 - Teleological argument
-- Science does'nt "prove" everything (Epistemiology)
+- Science doesn't "prove" everything (Epistemiology)
 - How Christianity changes lives
 - It's Nihilism or Christianity
 - Evil proves God
@@ -44,8 +46,31 @@ Listed here are the ideas of pages/content to come in the future. If you would l
     - John Lennox
     - Stephen Meyer
     - Nabeel Qureshi
+    - C.S. Lewis
+    - G.K. Chesterton
+    - Youtubers
+        - Capturing Christianity | Cameron Bertuzzi
+        - Daily Dose of Wisdom | Brandon McGuire
+        - Wise Disciple | Nate Sala
+        - Inspiring Philosophy | Micheal Jones
+
 - Atheists/non-Christians too
     - Aron Ra
     - Richard Dawkins
     - Matt Dillahunty
     - CosmicSkeptic
+- Pages for religions and strategies for debating them
+    - Atheism
+    - Agnosticism
+    - Gnosticism (your god is essentially yourself)
+    - Deism
+    - Islam
+    - Mormonism
+    - Jehovah's Witnesses
+    - Hinduism
+    - Buddhism
+    - Baháʼí Faith
+    - Judaism
+    - Obscure?
+        - Taoism
+        - Sikhism

@@ -8,7 +8,7 @@ draft: false
 
 # About
 
-Apologetics.club is an independently maintained, not-for-profit site dedicated to providing simple but effective arguments against non-Christian claims. The ultimate goal is that more Christians are equipped to open up the minds of unbelievers to Christ through logic and reasoning.
+Apologetics.club is an independently maintained, not-for-profit site dedicated to providing simple and effective arguments against non-Christian claims. The ultimate goal is that more Christians are equipped to open up the minds of unbelievers to Christ through logic and reasoning.
 
 ### Contact
 

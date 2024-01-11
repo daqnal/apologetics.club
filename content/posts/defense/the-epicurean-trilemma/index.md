@@ -1,7 +1,7 @@
 +++
 title = 'The Epicurean Trilemma'
 date = 2023-12-25T16:06:15-05:00
-draft = false
+draft = true
 +++
 
 
@@ -48,17 +48,24 @@ Premise two states: *If God is not willing to prevent evil, then he is not all-g
 
 The definition of this one funny little word *good* causes monumental disparity between Christian and non-Christian. Due to the depth of this topic, there is [another page here (WIP)](/) about the problem of evil for further reading. Here, we'll focus on tackling the second premise of the trilemma.
 
-Let's begin by defining good from the Christian perspective. The most important concept here is that the word *good* has 2 meanings (or *scopes* if you want to sound fancy) in Christian language.
+Let's begin by defining good from the Christian perspective. The most important concept here is that the word *good* has 2 meanings (or *scopes* if you want to sound fancy) in Christian theology.
 
 **Chaotic/Local good** - that which seems correct and orderly to human intuition but lacks universality and order (i.e. actions of justice, love, or peace)
 
-**Cosmic/Absolute good** - that which is universally orderly and harmonious throughout space and time by the ultimate standard (i.e. justice, love, and peace)
+**Cosmic/Absolute/Universal good** - that which is universally orderly and harmonious throughout space and time by the ultimate standard (i.e. justice, love, and peace)
 
-Read over these definitions a few times, and note that the words *chaotic* and *cosmic* are used in their [philosophical definitions](https://protesilaos.com/books/2022-02-05-cosmos-logos-living-universe). Evil, then is the opposite of these terms; replace orderly, harmonious, and correct with chaotic, terrible, and amiss. 
+Read over these definitions a few times, and note that the words *chaotic* and *cosmic* are used in their [philosophical definitions](https://protesilaos.com/books/2022-02-05-cosmos-logos-living-universe). Evil, then is the opposite of these terms; replace orderly, harmonious, and correct with chaotic, terrible, and amiss. Most atheists making the Epicurean argument typically conflate these two types of evil/good into one. To them, *their* local good is the same as (or very similar to) universal good. 
 
-- talk about different "scopes" used to define good: local good and absolute good or finite good and infinite good
-- finite evil is necessary for infinite good
-- give example of father that is physically hurting his child, which seems bad, but then expand it with the context that his child stole a toy from the neighbor's child, and the father is punishing him so that he doesn't get encouraged and become a thief.
+First, a good question to counter: Why should I trust your definition of good. How do you know that you don't have a warped sense of good, and the Christian God is truly perfect?
+
+Once the atheist is able to recognize that God's morality is different than theirs, and that God, if he is real, would be infinitely more wise and smart than them, introduce them to this counter-argument:
+
+**If God is real, all-good, and all-powerful, then finite evil must be necessary for infinite perfection.**
+
+As a sidenote, if the atheist asks how Hell doesn't violate this principle, refer to [this article (WIP)](/).
+
+
+
 - free will -> because we are ignorant of God's full plan, nothing is absolutely evil, only locally -> free will must have been the perfect way, and i trust God to judge that over myself
 
 ## Conclusion

@@ -18,7 +18,12 @@
 
 @font-face {
   font-family: 'Ben Zion';
-  src: url(/fonts/benzionl.woff2);
+  src: url(/fonts/benzion.woff2);
+}
+
+@font-face {
+  font-family: 'Kanit';
+  src: url(/fonts/kanit.woff2);
 }
 
 /* fix to make the footer stick to the bottom */
