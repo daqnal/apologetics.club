@@ -1,7 +1,7 @@
 +++
 title = 'The Epicurean Trilemma'
 date = 2023-12-25T16:06:15-05:00
-draft = true
+draft = false
 +++
 
 

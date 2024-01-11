@@ -47,6 +47,10 @@ footer p {
   font-size: 0.75rem;
 }
 
+/* @media screen {
+  add media queries for footer text here
+} */
+
 nav {
 
   margin-left: 10px;
@@ -266,6 +270,10 @@ article h1, h2, h3, h4, h5, h6 {
   --typography-spacing-vertical: 1rem;
 }
 
+h1 {
+  margin-bottom: 0.5em;
+}
+
 ::marker {
   font-weight: bold;
 }
@@ -291,7 +299,8 @@ blockquote ol {
 }
 
 p img {
-  margin: var(--typography-spacing-vertical) 0;
+  /* margin: var(--typography-spacing-vertical) 0; */
+  margin: 0 0;
 }
 
 article p {
