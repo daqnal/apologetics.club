@@ -53,7 +53,6 @@ Listed here are the ideas of pages/content to come in the future. If you would l
         - Daily Dose of Wisdom | Brandon McGuire
         - Wise Disciple | Nate Sala
         - Inspiring Philosophy | Micheal Jones
-
 - Atheists/non-Christians too
     - Aron Ra
     - Richard Dawkins

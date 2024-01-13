@@ -1,14 +1,15 @@
 {{ define "main" }}
   <main class="container">
     <header>
-      <h1>{{ .Title }}</h1>
+      <h1 id="title">
+        <span id="title-apologetics">Apologetics</span>
+        <span>Club</span>
+      </h1>
 
       <span id="title-break"></span>
 
-      <h4>❮ Christianity doesn't have to be logicless ❯</h4>
+      <h4 id="tagline">❮ Christianity doesn't have to be logicless ❯</h4>
     </header>
-
-    <br>
 
     <div class="mini-boxes-container">
       <button onclick="window.location.href='/intro';" class="box mini-box">

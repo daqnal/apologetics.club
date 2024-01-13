@@ -1,7 +1,7 @@
 :root {
   --font-family: 'Kanit', sans-serif;
   --border-radius: 0.5rem;
-  --spacing: 0.5rem;
+  --spacing: 1rem;
 
   /* colors ye */
   --blue: rgba(16, 149, 193, 1);
@@ -34,6 +34,10 @@ body {
   justify-content: flex-start;
 }
 
+main {
+  padding-top: 1rem !important;
+}
+
 footer {
   /* fix to make it stick at the bottom */
   margin-top: auto;
@@ -44,12 +48,28 @@ footer {
 
 footer p {
   /* footer text should be smaller */
-  font-size: 0.75rem;
+  font-size: 0.6rem;
 }
 
-/* @media screen {
-  add media queries for footer text here
-} */
+#footer-break {
+  display: none;
+}
+
+@media screen and (max-width: 769px) {
+
+  #footer-separator {
+    display: none;
+  }
+
+  #footer-made-with {
+    font-size: 0.6rem;
+    margin: 0 10px;
+  }
+
+  #footer-break {
+    display: inline;
+  }
+}
 
 nav {
 
@@ -62,9 +82,7 @@ nav {
 
 svg {
   color: var(--blue);
-
-  margin-left: 10px;
-  margin-right: 10px;
+  margin: 0 10px;
 }
 
 h4 {
@@ -76,7 +94,7 @@ h6 {
 }
 
 /* Main page title text */
-header>h1 {
+#title {
   position: absolute;
   left: 0;
   right: 0;
@@ -93,14 +111,43 @@ header>h1 {
   height: 12vw;
 }
 
-header>h1:hover {
+@media screen and (max-width: 576px) {
+  #title-apologetics {
+    display: block;
+    line-height: 0.5;
+
+    margin-top: 2vw;
+  }
+
+  #title-break {
+    height: 28vw;
+  }
+
+  #title {
+    font-size: 14vw;
+  }
+
+}
+
+@media screen and (max-width: 300px) {
+
+  #nav-title {
+    font-size: 0.75em;
+  }
+
+  #title {
+    font-size: 12vw;
+  }
+}
+
+#title:hover {
   -webkit-animation: glow 5s ease-in-out infinite alternate;
   -moz-animation: glow 5s ease-in-out infinite alternate;
   animation: glow 5s ease-in-out infinite alternate;
 }
 
 /* Description text underneath title */
-header>h4 {
+#tagline {
   margin-bottom: 0;
   text-align: center;
   font-size: 2.5vw;
@@ -127,10 +174,12 @@ header {
 /* style the "apologetics.club" in the header*/
 #nav-title {
   /* border styling */
-  position: absolute;
+  /* position: absolute; */
   border: 2px var(--blue) solid;
   border-radius: 25px;
   padding: 0 7.5px;
+  margin-left: 0px;
+  color: var(--white-half);
 }
 
 .pagination-container {
@@ -193,6 +242,31 @@ h1.title {
 .mini-boxes-container {
   display: flex;
   flex-direction: row;
+}
+
+@media screen and (max-width: 370px) {
+  .mini-boxes-container {
+    flex-direction: column;
+  }
+  .mini-box {
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+
+  .box-text {
+    margin: 0 7.5px !important;
+  }
+
+  #tagline {
+    font-size: 4vw;
+  }
+
+  svg {
+    margin: 0 0px;
+  }
 }
 
 .box-icon {
@@ -274,6 +348,10 @@ h1 {
   margin-bottom: 0.5em;
 }
 
+h2 strong {
+  font-size: calc(var(--font-size) + 0.25rem);
+}
+
 ::marker {
   font-weight: bold;
 }
@@ -291,6 +369,11 @@ ol, ul li {
 ul li ul li::marker {
   color: var(--blue-half);
   content: "○ ";
+}
+
+ul li ul li ul li::marker {
+  color: var(--blue-half);
+  content: "‣ "
 }
 
 blockquote ol {
