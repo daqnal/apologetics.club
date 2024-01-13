@@ -127,6 +127,10 @@ h6 {
     font-size: 14vw;
   }
 
+  .box-text {
+    font-size: 1em !important;
+  }
+
 }
 
 @media screen and (max-width: 300px) {
@@ -179,7 +183,7 @@ header {
   border-radius: 25px;
   padding: 0 7.5px;
   margin-left: 0px;
-  color: var(--white-half);
+  color: white;
 }
 
 .pagination-container {
@@ -278,6 +282,7 @@ h1.title {
 .box-text {
   text-align: center;
   margin: 0.5vw;
+  font-size: 1.25em;
 }
 
 #recent-posts-text {
