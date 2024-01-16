@@ -38,3 +38,30 @@ Keep the fruit of the spirit in your heart when you talk with non-Christians, es
 Don't misunderstand this principle. Logic does not go against God; in fact, to Christians, logic is proof of God. The truth is that people see abstract concepts like logic, good, beauty, et cetera differently based on environmental biases and personal beliefs.
 
 The point of apologetics is not to *prove* the existence of what is by essence supernatural (God), it is to show that God is not incompatible with reality, with science. From a non-religious perspective, we must show that God is *possible*, maybe even *likely*. From an Islamic, Judaic, or Hindu perspective, we must show that the evidence points toward the triune God of the Christians, not their god. Use this content to show that to the world. Only God can truly change the heart; our job is to open the world's minds to him.
+
+
+### 3. Reading **Defense** pages by Section
+
+#### Attack
+
+At the beginning of each page will be an outline of the argument against Christianity. It may include a short blurb of historical context and key proponents.
+
+#### Defense
+
+The **Defense** section makes up the meat of each page. The systematic analysis and rebuttal to the argument introduced in **Attack** section are found here.
+
+#### Conclusion
+
+The name says it all.
+
+#### Flipping the Attack
+
+This section is included to offer references to **Attack** pages that naturally follow from the defense. For instance, [The Epicurean Trilemma](/posts/defense/the-epicurean-trilemma/), an attack on God's goodness by the presence of evil, will link to an article on how the presence of evil is actually proof *of* God.
+
+#### Recursive Rebuttals
+
+**Recursive Rebuttals** procedes down the line of possible argument stemming from the Defense just made. Many common responses are addressed here that aren't addressed in **Defense**. Many of these arguments often lead into their own topics, so other pages will be linked for full reference; however, this section will remain quick bullet points.
+
+#### Sources
+
+Credit given where credit is due. This section is especially important in the *historicity arguments* department, where accurate sources are critical. Any article that argues about non-self-evident topics without sources is useless.

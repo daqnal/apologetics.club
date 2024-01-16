@@ -9,7 +9,7 @@ draft = false
 
 ![img name](trilemma.webp)
 
-A trilemma is a difficult choice between three unacceptable options. Attributed to pre-Christ Greek philosopher [Epicurus](https://en.wikipedia.org/wiki/Epicurus), this trilemma seems to make the omnipowerful and omni-loving God illogical by offering three compromising but logically consistent options.
+A trilemma is a difficult choice between three unacceptable options. Attributed to pre-Christ Greek philosopher [Epicurus](https://en.wikipedia.org/wiki/Epicurus) but popularized by [David Hume](https://en.wikipedia.org/wiki/David_Hume), this trilemma seems to make the omnipowerful and omni-loving God illogical by offering three compromising but logically consistent options.
 
 Here are the premises:
 
@@ -50,30 +50,46 @@ The definition of this one funny little word *good* causes monumental disparity 
 
 Let's begin by defining good from the Christian perspective. The most important concept here is that the word *good* has 2 meanings (or *scopes* if you want to sound fancy) in Christian theology.
 
-**Chaotic/Local good** - that which seems correct and orderly to human intuition but lacks universality and order (i.e. actions of justice, love, or peace)
+**Chaotic/Local good** - that which seems correct and orderly to human intuition but lacks universality and consensus
 
-**Cosmic/Absolute/Universal good** - that which is universally orderly and harmonious throughout space and time by the ultimate standard (i.e. justice, love, and peace)
+**Cosmic/Absolute/Universal good** - that which is universally orderly and harmonious throughout space and time by the ultimate standard
 
 Read over these definitions a few times, and note that the words *chaotic* and *cosmic* are used in their [philosophical definitions](https://protesilaos.com/books/2022-02-05-cosmos-logos-living-universe). Evil, then is the opposite of these terms; replace orderly, harmonious, and correct with chaotic, terrible, and amiss. Most atheists making the Epicurean argument typically conflate these two types of evil/good into one. To them, *their* local good is the same as (or very similar to) universal good. 
 
-First, a good question to counter: Why should I trust your definition of good. How do you know that you don't have a warped sense of good, and the Christian God is truly perfect?
+First, a good question to counter: Why should I trust your definition of good? How do you know that you don't have a warped sense of good, and God is truly perfect?
 
-Once the atheist is able to recognize that God's morality is different than theirs, and that God, if he is real, would be infinitely more wise and smart than them, introduce them to this counter-argument:
+God, if he existed, would have different moral values than any human does. He would be infinitely wiser and smarter than any hunk of cells he created. It is not a leap in logic to see that the same being that created spacetime, wrote the laws of science, established metaphysical concepts such as beauty, math, logic, musical harmony, and time, and molded the universe from nothing, this being has the capability to see that temporary evil leads to infinite perfection. Humans are finite, dumb, and ignorant. Who are we to judge absolute good and evil in the scope of all time as finite creatures?
 
+Think of your favorite movie ever. Chances are it includes a protagonist who suffers some injustice and overcomes it in the end. Humans love the ideas of redemption, heroicism, and victory. However, movies would not be exciting if nothing bad happened and the character got what they wanted without any real obstacles. There is no saving of humanity without humanity's fall in the first place. God deemed it best that we choose between right and wrong, otherwise we are no more than moist robots programmed to give him praise.
+
+This arguments follows:
 **If God is real, all-good, and all-powerful, then finite evil must be necessary for infinite perfection.**
-
-As a sidenote, if the atheist asks how Hell doesn't violate this principle, refer to [this article (WIP)](/).
-
-
-
-- free will -> because we are ignorant of God's full plan, nothing is absolutely evil, only locally -> free will must have been the perfect way, and i trust God to judge that over myself
 
 ## Conclusion
 
+The Epicurean Trilemma boils down to a fundamental lack of understanding of good. Specifically, God's place in the universe is vastly different from ours. He defines good; we do not.
+
+*If God is both willing and able to prevent evil, then why does evil exist?*
+
+**Evil exists because God, as a being infinitely more supreme and wise than us, deemed it necessary to give humans free will and let evil into the world in order to create perfect, infinite good.**
+
 ## Flipping the Attack
 
+- *Morality doesn't exist in Atheism* (PAGE WIP)
+- *Evil is proof of God* (PAGE WIP)
+
 ## Recursive Rebuttals
+
+*How can God have the right to impose infinite punishment for finite sins?* (PAGE WIP)
+- Don't think of Hell first as a fiery pit, think of it as separation from God
+    - God is literally, in all essence, Good, Perfect, Love, Justice, and Peace
+    - Anyone who rebels against God rebels against the concept of Good itself
+    - They get what they want and what they reaped in life: eternal separation from Good
+*Good is a construct of evolution that leads to societal improvement and reproduction.* (PAGE WIP)
+- Sacrificial, selfless love seeks no benefits, yet it is the noblest of all loves
 
 ## Sources
 1. [Ronald Kimmons, *Facing The Epicurean Trilemma*](https://medium.com/@ronald_37940/facing-the-epicurean-trilemma-cf0f690a7daf)
 2. [Protesilaos Stavrou, *Cosmos, Logos, and the living universe*](https://protesilaos.com/books/2022-02-05-cosmos-logos-living-universe/)
+3. [Wikipedia - Epicurus](https://en.wikipedia.org/wiki/Epicurus)
+4. [Wikipedia - David Hume](https://en.wikipedia.org/wiki/David_Hume)

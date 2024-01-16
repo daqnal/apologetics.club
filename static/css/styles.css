@@ -41,7 +41,7 @@ main {
 footer {
   /* fix to make it stick at the bottom */
   margin-top: auto;
-
+  padding: 2rem 0 !important;
   opacity: 50%;
   text-align: center;
 }

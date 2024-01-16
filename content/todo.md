@@ -24,11 +24,13 @@ Listed here are the ideas of pages/content to come in the future. If you would l
 - Sins committed by Christians
 - The Bible contradicts science
 - ID is pseudoscience
+- Morality is a construct of evolution
 
 
 ## Attacks
 - Ontological argument
 - Teleological argument
+- Morality doesn't exist in Atheism
 - Science doesn't "prove" everything (Epistemiology)
 - How Christianity changes lives
 - It's Nihilism or Christianity
