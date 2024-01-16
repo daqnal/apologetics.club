@@ -85,6 +85,7 @@ The Epicurean Trilemma boils down to a fundamental lack of understanding of good
     - God is literally, in all essence, Good, Perfect, Love, Justice, and Peace
     - Anyone who rebels against God rebels against the concept of Good itself
     - They get what they want and what they reaped in life: eternal separation from Good
+
 *Good is a construct of evolution that leads to societal improvement and reproduction.* (PAGE WIP)
 - Sacrificial, selfless love seeks no benefits, yet it is the noblest of all loves
 
