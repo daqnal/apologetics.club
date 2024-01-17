@@ -55,22 +55,6 @@ footer p {
   display: none;
 }
 
-@media screen and (max-width: 769px) {
-
-  #footer-separator {
-    display: none;
-  }
-
-  #footer-made-with {
-    font-size: 0.6rem;
-    margin: 0 10px;
-  }
-
-  #footer-break {
-    display: inline;
-  }
-}
-
 nav {
 
   margin-left: 10px;
@@ -111,39 +95,6 @@ h6 {
   height: 12vw;
 }
 
-@media screen and (max-width: 576px) {
-  #title-apologetics {
-    display: block;
-    line-height: 0.5;
-
-    margin-top: 2vw;
-  }
-
-  #title-break {
-    height: 28vw;
-  }
-
-  #title {
-    font-size: 14vw;
-  }
-
-  .box-text {
-    font-size: 1em !important;
-  }
-
-}
-
-@media screen and (max-width: 300px) {
-
-  #nav-title {
-    font-size: 0.75em;
-  }
-
-  #title {
-    font-size: 12vw;
-  }
-}
-
 #title:hover {
   -webkit-animation: glow 5s ease-in-out infinite alternate;
   -moz-animation: glow 5s ease-in-out infinite alternate;
@@ -154,7 +105,15 @@ h6 {
 #tagline {
   margin-bottom: 0;
   text-align: center;
-  font-size: 2.5vw;
+  font-size: 2vw;
+}
+
+#recent-posts-text {
+  text-align: center;
+}
+
+#post-info {
+  font-size: 0.8rem;
 }
 
 /* spacing between title & desc and rest of page */
@@ -248,31 +207,6 @@ h1.title {
   flex-direction: row;
 }
 
-@media screen and (max-width: 370px) {
-  .mini-boxes-container {
-    flex-direction: column;
-  }
-  .mini-box {
-    width: 65%;
-    margin-left: auto;
-    margin-right: auto;
-    flex-direction: row;
-    justify-content: flex-start;
-  }
-
-  .box-text {
-    margin: 0 7.5px !important;
-  }
-
-  #tagline {
-    font-size: 4vw;
-  }
-
-  svg {
-    margin: 0 0px;
-  }
-}
-
 .box-icon {
   width: 7vw;
   height: 7vw;
@@ -283,10 +217,6 @@ h1.title {
   text-align: center;
   margin: 0.5vw;
   font-size: 1.25em;
-}
-
-#recent-posts-text {
-  text-align: center;
 }
 
 button {
@@ -398,4 +328,100 @@ article p {
 hr {
   margin-block-start: 2em;
   margin-block-end: 2em;
+}
+
+/* media queries */
+
+@media screen and (max-width: 992px) {
+  #tagline {
+    font-size: 3vw;
+  }
+}
+
+@media screen and (max-width: 769px) {
+
+  #footer-separator {
+    display: none;
+  }
+
+  #footer-made-with {
+    font-size: 0.8rem;
+    margin: 0 10px;
+  }
+
+  #footer-break {
+    display: inline;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  #title-apologetics {
+    display: block;
+    line-height: 0.5;
+
+    margin-top: 2vw;
+  }
+
+  #title-break {
+    height: 28vw;
+  }
+
+  #title {
+    font-size: 14vw;
+  }
+
+  #tagline {
+    font-size: 4vw;
+  }
+
+  .box-text {
+    font-size: 1em !important;
+  }
+
+}
+
+@media screen and (max-width: 370px) {
+  .mini-boxes-container {
+    flex-direction: column;
+  }
+  .mini-box {
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+
+  .box-text {
+    margin: 0 7.5px !important;
+  }
+
+  svg {
+    margin: 0 0px;
+  }
+
+  #post-summary {
+    font-size: 0.8rem;
+  }
+
+  #post-info {
+    font-size: 0.6rem;
+  }
+}
+
+@media screen and (max-width: 300px) {
+
+  #nav-title {
+    font-size: 0.75em;
+  }
+
+  #title {
+    font-size: 12vw;
+  }
+}
+
+@media screen and (max-width: 264px) {
+  .mini-box {
+    width: 90%;
+  }
 }
