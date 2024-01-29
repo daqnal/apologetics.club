@@ -24,10 +24,6 @@ Title font: [Ben Zion](https://www.dafont.com/ben-zion.font) by [Iconian Fonts](
 
 Sans-serif font: [Kanit](https://fonts.google.com/specimen/Kanit) by Cadson Demak
 
-## Why the name?
-
-Not too deep of a reason behind this one. `apologetics.club` wasn't taken, and it sounds kinda cool 😎
-
 ---
 
  \- DD
