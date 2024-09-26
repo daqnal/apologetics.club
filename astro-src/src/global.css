@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Kanit";
+    src: url("/fonts/kanit.woff2") format("woff2");
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    font-family: "Kanit", sans-serif;
+}

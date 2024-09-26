@@ -1,0 +1,27 @@
+---
+import { SITE_TITLE } from "../consts";
+---
+
+<nav>
+    <div>
+        <a href="/">{SITE_TITLE}</a>
+    </div>
+
+    <div>
+        <button class="btn">Home</button>
+        <button class="btn">Search</button>
+        <button class="btn">About</button>
+        <button class="btn">Directory</button>
+    </div>
+</nav>
+
+
+<style>
+    nav {
+        padding: 10px;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        border-bottom: 3px solid white;
+    }
+</style>
