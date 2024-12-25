@@ -6,3 +6,4 @@
 - React
 - Tailwind
 - daisyUI
+- Lucide React
